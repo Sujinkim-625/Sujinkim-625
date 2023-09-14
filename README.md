@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <div align='center'>
 
 <a href="https://github.com/Sujinkim-625/github-stats">
-<img src="https://raw.githubusercontent.com/Sujinkim-625/github-stats/output/generated/languages.svg" width=40% />
+  <img src="https://raw.githubusercontent.com/Sujinkim-625/github-stats/output/generated/languages.svg" width=40% />
 </a>
 </div>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
