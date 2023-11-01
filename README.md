@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<div align='center'>
+<div>
   <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><span>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -32,15 +32,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div align='center'>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujinkim-625&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
-<a href="https://github.com/Sujinkim-625/github-stats">
-  <img src="https://raw.githubusercontent.com/Sujinkim-625/github-stats/output/generated/languages.svg" width=40% />
-</a>
-</div>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujinkim-625&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
 </a>
-
-</div>
 
